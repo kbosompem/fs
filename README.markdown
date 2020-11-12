@@ -38,19 +38,19 @@ definition to your `pom.xml`:
 
 With Leiningen:
 
-    [me.raynes/fs "1.4.6"]
+    [kbosompem/fs "2.0.0"]
 
 
 With Maven:
 
     <dependency>
-      <groupId>me.raynes</groupId>
+      <groupId>kbosompem</groupId>
       <artifactId>fs</artifactId>
-      <version>1.4.6</version>
+      <version>2.0.0</version>
     </dependency>
 
 ## License
 
-Copyright (C) 2010-2013 Miki Tebeka, Anthony Grimes
+Copyright (C) 2010-2020 Miki Tebeka, Anthony Grimes
 
 Distributed under the Eclipse Public License, the same as Clojure.
